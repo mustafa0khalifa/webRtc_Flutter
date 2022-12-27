@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "394115923804",
+    "firebase_url": "https://testrtc-cea16-default-rtdb.firebaseio.com",
+    "project_id": "testrtc-cea16",
+    "storage_bucket": "testrtc-cea16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394115923804:android:6e27986c0bcdb3704d8b99",
+        "android_client_info": {
+          "package_name": "com.example.test_rtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394115923804-0re7st8n14s46i8ldjrnsm58h5i0d9sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzdkqrYl6klFNVnUCW75FaLhKLsF6ceo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394115923804-0re7st8n14s46i8ldjrnsm58h5i0d9sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394115923804:android:7054d61a68f4d7304d8b99",
+        "android_client_info": {
+          "package_name": "com.example.webrtc_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394115923804-0re7st8n14s46i8ldjrnsm58h5i0d9sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzdkqrYl6klFNVnUCW75FaLhKLsF6ceo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394115923804-0re7st8n14s46i8ldjrnsm58h5i0d9sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394115923804:android:f7b440c0663e00974d8b99",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394115923804-0re7st8n14s46i8ldjrnsm58h5i0d9sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzdkqrYl6klFNVnUCW75FaLhKLsF6ceo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394115923804-0re7st8n14s46i8ldjrnsm58h5i0d9sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
